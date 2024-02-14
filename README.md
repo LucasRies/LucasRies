@@ -1,6 +1,6 @@
-### Hello, I'am Lucas Ries 👋
+## 🔴 Hello, I'am Lucas Ries 👋
 
-- 🔭 I'm curious and love programming
+- 🔭 A curious and passionate Programmer
 - 🌱 Currently learning Python and Django
 
 ## 🛠️ My Skills 
@@ -29,6 +29,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-### 🤓 Lets get connected
+## 📈 Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRies&layout=compact)
+
+## 🤓 Lets get connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/LucasRies) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasriespereira@gmail.com)
